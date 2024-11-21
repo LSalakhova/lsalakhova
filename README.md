@@ -1,6 +1,6 @@
 ## Hi there👋
 My name is Liaisan and I am a future QA Engineer. I am currently studying and will be sharing here my web and mobile testing portfolio. 
-Buckle up and join my journey - Let's have some fun and be creative!
+Buckle up and join my journey - Let's have some fun and get creative!
 <!--
 **LSalakhova/lsalakhova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
