@@ -10,7 +10,7 @@
 <li> 👩‍💻 Most of my Study Cases are available on <a href="https://github.com/LSalakhova">Github</a></li> 
 <li>📙 Check out my <a href="https://drive.google.com/file/d/10Yboecz7i7q3H7gUOLiQMoE4Ili_fhya/view?usp=sharing">Resume</a></li> 
 <li>🔥 Random fact about me: I'm obsessed with Outdoor Activities, love Traveling, Good Food and Yoga </li>
-<li>🏄‍♀️ My next goals in live: learn Spanish and Surfing</li> 
+<li>🏄‍♀️ My next goals in life: learn Spanish and Surfing</li> 
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
