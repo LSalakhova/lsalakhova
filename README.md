@@ -3,12 +3,10 @@
 <p>Buckle up and join my journey - Let's have some fun and get creative! </p> 
 
 <h2>Quick Facts About Me</h2>
-<img align="right" src="https://github.com/user-attachments/assets/bfd8e068-83c6-434d-9b9a-18fc5ea9b0b6" width="190" height="190">
+<img align="right" src="https://github.com/user-attachments/assets/bfd8e068-83c6-434d-9b9a-18fc5ea9b0b6" width="150" height="150">
 <ul>
 <li> 🤓 I’m currently a QA Engineer Intern at Ai Chatbot Studio</li>
-<li> 👩‍🎓 Finished <a href="https://drive.google.com/file/d/1XC729Gfwjo3VgeM3MFQROR7_jF7c2s9J/view?usp=sharing">Functional Software Testing Course</a> </li>
 <li> 👩‍💻 Most of my Study Cases are available on <a href="https://github.com/LSalakhova">Github</a></li> 
-<li>📙 Check out my <a href="https://drive.google.com/file/d/10Yboecz7i7q3H7gUOLiQMoE4Ili_fhya/view?usp=sharing">Resume</a></li> 
 <li>🔥 Random fact about me: I'm obsessed with Outdoor Activities, love Traveling, Good Food and Yoga </li>
 <li>🏄‍♀️ My next goals in life: learn Spanish and Surfing</li> 
 </ul>
