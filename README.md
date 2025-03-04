@@ -1,6 +1,12 @@
 <h2>Hi there, my name is Liaisan 👋 </h2>
 <p>I'm a Software Quality Assurance Engeneer based in Chicago, Illinois. Here I am sharing some of my Web and Mobile testing portfolio artifacts that i created during my work with few pet-projects. </p> 
 
+<h2> Contact me here </h2>
+<p>
+<a href= "https://www.linkedin.com/in/liaisan-salakhova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "mailto:liaisan.salakhova.qa@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+</p>
+
 <h2>Quick Facts About Me</h2>
 <img align="right" src="https://github.com/user-attachments/assets/bfd8e068-83c6-434d-9b9a-18fc5ea9b0b6" width="150" height="150">
 <ul>
@@ -42,11 +48,8 @@
 </ul>
 </p>
 
-<h2> Contact me here </h2>
-<p>
-<a href= "https://www.linkedin.com/in/liaisan-salakhova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
-<a href= "mailto:liaisan.salakhova.qa@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
-</p>
+
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LSalakhova)
