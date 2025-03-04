@@ -2,8 +2,8 @@
 <p>I'm a Software Quality Assurance Engeneer based in Chicago, Illinois. Here I am sharing some of my Web and Mobile testing portfolio artifacts that i created during my work with few pet-projects. </p> 
 
 <h2> Contact me here </h2>
-<p>
-<a href= "https://www.linkedin.com/in/liaisan-salakhova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<p> 
+<a href= "https://www.linkedin.com/in/liaisansalakhova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "mailto:liaisan.salakhova.qa@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
