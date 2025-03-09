@@ -12,7 +12,7 @@
 <ul>
 <li> 🤓 I’m currently a QA Engineer Intern at Ai Chatbot Studio</li>
 <li> 👩‍💻 Most of my Study Cases are available on <a href="https://github.com/LSalakhova">Github</a></li> 
-<li>🔥 Random fact about me: I'm obsessed with Outdoor Activities, love Traveling, Good Food and Yoga </li>
+<li>🔥 Random facts about me: I love Traveling, Good Food and Yoga </li>
 <li>🏄‍♀️ My next goals in life: learn Spanish and Surfing</li> 
 </ul>
 <h2>Some Tools I Use</h2>
