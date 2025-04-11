@@ -37,9 +37,6 @@
 <h2>Test Artifacts </h2>
 <p> 
  <ul>
-  <li> 📚 <a href="https://github.com/LSalakhova/theory"> Testing Theory </a>  </li>
-<li> 🗃️ <a href="https://github.com/LSalakhova/docs"> Testing documentation </a>  </li>
-<li> 🔍 <a href="https://github.com/LSalakhova/design"> Test Design Techniques </a>   </li>
 <li> 🖥️ <a href="https://github.com/LSalakhova/web"> Testing Web Applications </a>   </li>
 <li> 📱 <a href="https://github.com/LSalakhova/mobile"> Mobile Application Testing </a>  </li>
 <li> 📓 <a href="https://github.com/LSalakhova/database"> Work with Databases </a>   </li>
