@@ -1,5 +1,5 @@
 <h2>Hi there, my name is Liaisan 👋 </h2>
-<p>I'm a Software Quality Assurance Engeneer based in Chicago, Illinois. Here I am sharing some of my Web and Mobile testing portfolio artifacts that i created during my work on some pet-projects. </p> 
+<p>I'm a Software Quality Assurance Engeneer based in Chicago, Illinois. Here I am sharing some of my Web and Mobile testing portfolio artifacts that i collected during my work on some pet-projects. </p> 
 
 <h2> Contact me here </h2>
 <p> 
@@ -7,11 +7,11 @@
 <a href= "mailto:liaisan.salakhova.qa@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
-<h2>Quick Facts About Me</h2>
+<h2>About Me</h2>
 <img align="right" src="https://github.com/user-attachments/assets/bfd8e068-83c6-434d-9b9a-18fc5ea9b0b6" width="150" height="150">
 <ul>
-<li> 🤓 I’m currently a QA Engineer Intern at Ai Chatbot Studio</li>
-<li> 👩‍💻 Most of my Study Cases are available on <a href="https://github.com/LSalakhova">Github</a></li> 
+<li> 🤓 I’m currently a Software QA Engineer at The Custom Product Builder</li>
+<li> 👩‍💻 Some of my portfolio artifacts are available on <a href="https://github.com/LSalakhova">Github</a></li> 
 <li>🔥 Random facts about me: I love Traveling, Good Food and Yoga </li>
 <li>🏄‍♀️ My next goals in life: learn Spanish and Surfing</li> 
 </ul>
