@@ -1,5 +1,5 @@
 <h2>Hi there, my name is Liaisan 👋 </h2>
-<p>I'm a Software Quality Assurance Engeneer based in Chicago, Illinois. Here I am sharing some of my Web and Mobile testing portfolio artifacts that i've collected during my work on some pet-projects. </p> 
+<p>I'm a Software Quality Assurance Engineer based in Chicago, Illinois. Here I am sharing some of my Web and Mobile testing portfolio artifacts that i've collected during my work on some pet-projects. </p> 
 
 <h2> Contact me here </h2>
 <p> 
