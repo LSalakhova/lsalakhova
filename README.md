@@ -13,7 +13,7 @@
 <li> 🤓 I’m currently a Software QA Engineer at The Custom Product Builder</li>
 <li> 👩‍💻 Some of my portfolio artifacts are available on <a href="https://github.com/LSalakhova">Github</a></li> 
 <li>🔥 Random facts about me: I love Traveling, Good Food and Yoga </li>
-<li>🏄‍♀️ My next goals in life: learn Spanish and Surfing</li> 
+<li>🏄‍♀️ My next goals in life: learn Spanish and get a dog</li> 
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
